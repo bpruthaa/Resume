@@ -1,3 +1,0 @@
-# Resume
-
-LinkedIn generated Resume.
